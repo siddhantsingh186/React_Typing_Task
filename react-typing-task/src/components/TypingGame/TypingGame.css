@@ -1,0 +1,73 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.instruction{
+    display: flex;
+    justify-content: center
+}
+
+input{
+    width: 500px;height: 100px;
+}
+
+#start-button{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 27px;
+    border-radius: 27px;
+    border-color: transparent;
+}
+
+#start-button:hover{
+    cursor: pointer;
+}
+
+.stats{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.stats p{
+    font-family: 'Righteous', cursive;
+}
+.quote{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 34px;
+    font-family: 'Righteous', cursive;
+    font-size: 24px;
+}
+
+table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#headers{
+    display: flex;
+    column-gap: 40px;
+}
+
+.tableRows{
+    display: flex;
+    column-gap: 63px;
+    margin-left: 44px;
+}
+
+.resetButton{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 22px;
+}
