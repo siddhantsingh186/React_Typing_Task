@@ -1,0 +1,15 @@
+input{
+    width: 500px;
+    height: 100px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+}
+
+.instruction{
+    font-family: 'Righteous', cursive;
+}
